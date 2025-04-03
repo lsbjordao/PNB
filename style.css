@@ -1,0 +1,61 @@
+/* Estilo comum */
+body {
+    margin: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+/* Lista aninhada inicialmente oculta */
+.nested {
+    display: none;
+}
+
+/* Quando a classe "active" for adicionada, o item será exibido */
+.active {
+    display: block;
+}
+
+/* Ajustes na hierarquia visual */
+.level-1 {
+    font-weight: bold;
+    font-size: 28px; /* Título com fonte maior e fixa */
+}
+
+.level-2 {
+    font-weight: bold;
+    font-size: 26px; /* Capítulo menor que o título, mas fixo */
+}
+
+.level-3 {
+    font-weight: bold;
+    font-size: 24px; /* Seção com fonte menor que Capítulo */
+}
+
+.level-4 {
+    font-weight: normal;
+    font-size: 22px; /* Subseção com fonte um pouco menor que Seção */
+}
+
+.level-5, .level-6, .level-7 {
+    font-weight: normal;
+    font-size: 18px; /* Artigo, Parágrafo e Inciso com o mesmo tamanho fixo */
+}
+
+details summary {
+    color: inherit !important;
+    cursor: pointer;  /* Garantir que o cursor seja indicado como clicável */
+}
+
+/* Garantir que o texto dentro do <summary> tenha a cor correta no modo escuro */
+body.dark-mode details summary {
+    color: inherit !important;
+}

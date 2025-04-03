@@ -1,0 +1,94 @@
+# Do Componente 4 - Monitoramento, Avaliação, Prevenção e Mitigação de Impactos sobre a Biodiversidade.
+
+::: {.callout-note icon=false appearance="simple"}
+
+**Objetivo Geral: estabelecer formas para o desenvolvimento de sistemas e procedimentos de monitoramento e de avaliação do estado da biodiversidade brasileira e das pressões antrópicas sobre a biodiversidade, para a prevenção e a mitigação de impactos sobre a biodiversidade.**
+
+:::
+
+## 13.1 Primeira diretriz: Monitoramento da biodiversidade. Monitoramento do estado das pressões e das respostas dos componentes da biodiversidade.
+
+13.1.1 Apoiar o desenvolvimento de metodologias e de indicadores para o monitoramento dos componentes da biodiversidade dos ecossistemas e dos impactos ambientais responsáveis pela sua degradação, inclusive aqueles causados pela introdução de espécies exóticas invasoras e de espécies-problema.
+
+13.1.2 Implantar e fortalecer sistema de indicadores para monitoramento permanente da biodiversidade, especialmente de espécies ameaçadas e nas unidades de conservação, terras indígenas, terras de quilombolas, áreas de manejo de recursos biológicos, reservas legais e nas áreas indicadas como prioritárias para conservação.
+
+13.1.3 Integrar o sistema de monitoramento da biodiversidade com os sistemas de monitoramento de outros recursos naturais existentes.
+
+13.1.4 Expandir, consolidar e atualizar um sistema de vigilância e proteção para todos os biomas, incluindo o Sistema de Vigilância da Amazônia, com transparência e controle social e com o acesso permitido às informações obtidas pelo sistema por parte das comunidades envolvidas, incluindo as populações localmente inseridas e as instituições de pesquisa ou ensino.
+
+13.1.5 Instituir sistema de monitoramento do impacto das mudanças globais sobre distribuição, abundância e extinção de espécies.
+
+13.1.6 Implantar sistema de identificação, monitoramento e controle das áreas de reserva legal e de preservação permanente.
+
+13.1.7 Estimular o desenvolvimento de programa de capacitação da população local, visando à sua participação no monitoramento da biodiversidade.
+
+13.1.8 Apoiar as ações do órgão oficial responsável pela sanidade e pela fitossanidade com vistas em monitorar espécies exóticas invasoras para prevenir e mitigar os impactos de pragas e doenças na biodiversidade.
+
+13.1.9 Realizar o mapeamento periódico de áreas naturais remanescentes em todos os biomas.
+
+13.1.10 Promover o automonitoramento e sua publicidade.
+
+## 13.2 Segunda diretriz: Avaliação, prevenção e mitigação de impactos sobre os componentes da biodiversidade. Estabelecimento de procedimentos de avaliação, prevenção e mitigação de impactos sobre os componentes da biodiversidade.
+
+13.2.1 Criar capacidade nos órgãos responsáveis pelo licenciamento ambiental no país para avaliação de impacto sobre a biodiversidade.
+
+13.2.2 Identificar e avaliar as políticas públicas e não-governamentais que afetam negativamente a biodiversidade.
+
+13.2.3 Fortalecer os sistemas de licenciamento, fiscalização e monitoramento de atividades relacionadas com a biodiversidade.
+
+13.2.4 Promover a integração entre o Zoneamento Ecológico-Econômico e as ações de licenciamento ambiental, especialmente por intermédio da realização de Avaliações Ambientais Estratégicas feitas com uma escala regional.
+
+13.2.5 Apoiar políticas, programas e projetos de avaliação, prevenção e mitigação de impactos sobre a biodiversidade, inclusive aqueles relacionados com programas e planos de desenvolvimento nacional, regional e local.
+
+13.2.6 Apoiar a realização de análises de risco e estudos dos impactos da introdução de espécies exóticas potencialmente invasoras, espécies potencialmente problema e outras que ameacem a biodiversidade, as atividades econômicas e a saúde da população, e a criação e implementação de mecanismos de controle.
+
+13.2.7 Promover e aperfeiçoar ações de prevenção, controle e erradicação de espécies exóticas invasoras e de espécies-problema.
+
+13.2.8 Apoiar estudos de impacto da fragmentação de habitats sobre a manutenção da biodiversidade.
+
+13.2.9 Desenvolver estudos de impacto ambiental e implementar medidas de controle dos riscos associados ao desenvolvimento biotecnológico sobre a biodiversidade, especialmente quanto à utilização de organismos geneticamente modificados, quando potencialmente causador de significativa degradação do meio ambiente.
+
+13.2.10 Aperfeiçoar procedimentos e normas de coleta de espécies nativas com fins técnico-científicos com vistas na mitigação de seu potencial impacto sobre a biodiversidade.
+
+13.2.11 Desenvolver iniciativas de sensibilização e capacitação de entidades da sociedade civil em práticas de monitoramento e fiscalização da utilização dos recursos biológicos.
+
+13.2.12 Promover, juntamente com os diversos atores envolvidos, o planejamento da gestão da biodiversidade nas zonas de fronteiras agrícolas, visando a minimizar os impactos ambientais sobre a biodiversidade.
+
+13.2.13 Intensificar e garantir a eficiência do combate à caça ilegal e ao comércio ilegal de espécies e de variedades agrícolas.
+
+13.2.14 Desenvolver instrumentos de cobrança e aplicação de recursos auferidos pelo uso de serviços ambientais para reduzir as pressões antrópicas sobre a biodiversidade.
+
+13.2.15 Apoiar a realização de inventário das fontes de poluição da biodiversidade e de seus níveis de risco nos biomas.
+
+13.2.16 Apoiar ações de zoneamento e identificação de áreas críticas, por bacias hidrográficas, para conservação da biodiversidade e dos recursos hídricos.
+
+13.2.18 Apoiar estudos de impacto sobre a biodiversidade nas diferentes bacias hidrográficas, sobretudo nas matas ribeirinhas, cabeceiras, olhos d´água e outras áreas de preservação permanente e em áreas críticas para a conservação de recursos hídricos.
+
+13.2.19 Estabelecer mecanismos para determinar a realização de estudos de impacto ambiental, inclusive Avaliação Ambiental Estratégica, em projetos e empreendimentos de larga escala, inclusive os que possam gerar impactos agregados, que envolvam recursos biológicos, inclusive aqueles que utilizem espécies exóticas e organismos geneticamente modificados, quando potencialmente causadores de significativa degradação do meio ambiente.
+
+## 13.3 Terceira diretriz: Recuperação de ecossistemas degradados e dos componentes da biodiversidade sobreexplotados. Estabelecimento de instrumentos que promovam a recuperação de ecossistemas degradados e de componentes da biodiversidade sobreexplotados.
+
+13.3.1 Promover estudos e programas adaptados para conservação e recuperação de espécies ameaçadas ou sobreexplotadas e de ecossistemas sob pressão antrópica, de acordo com o Princípio do Poluidor-Pagador.
+
+13.3.2 Promover a recuperação, a regeneração e o controle da cobertura vegetal e dos serviços ambientais a ela relacionados em áreas alteradas, degradadas e em processo de desertificação e arenização, inclusive para a captura de carbono, de acordo com o Princípio do Poluidor-Pagador.
+
+13.3.3 Promover a recuperação de estoques pesqueiros sobreexplotados, inclusive pela identificação de espécies alternativas para o redirecionamento do esforço de pesca.
+
+13.3.4 Estimular as pesquisas paleoecológicas como estratégicas para a recuperação de ecossistemas naturais.
+
+13.3.5 Apoiar povos indígenas, quilombolas e outras comunidades locais na elaboração e na aplicação de medidas corretivas em áreas degradadas, onde a biodiversidade tenha sido reduzida.
+
+13.3.6 Identificar e apoiar iniciativas, programas, tecnologias e projetos de obtenção de germoplasma, reintrodução e translocação de espécies nativas, especialmente as ameaçadas, observando estudos e indicações referentes à sanidade dos ecossistemas.
+
+13.3.7 Apoiar iniciativas nacionais e estaduais de promoção do estudo e de difusão de tecnologias de restauração ambiental e recuperação de áreas degradadas com espécies nativas autóctones.
+
+13.3.8 Apoiar criação e consolidação de bancos de germoplasma como instrumento adicional de recuperação de áreas degradadas.
+
+13.3.9 Criar unidades florestais nos estados brasileiros, para produção e fornecimento de sementes e mudas para a execução de projetos de restauração ambiental e recuperação de áreas degradadas, apoiados por universidades e centros de pesquisa no país.
+
+13.3.10 Promover mecanismos de coordenação das iniciativas governamentais e de apoio às iniciativas não-governamentais de proteção das áreas em recuperação natural.
+
+13.3.11 Promover recuperação, revitalização e conservação da biodiversidade nas diferentes bacias hidrográficas, sobretudo nas matas ribeirinhas, nas cabeceiras, nos olhos d’água, em outras áreas de preservação permanente e em áreas críticas para a conservação de recursos hídricos.
+
+13.3.12 Promover ações de recuperação e restauração dos ecossistemas degradados e dos componentes da biodiversidade marinha sobreexplotados.
+

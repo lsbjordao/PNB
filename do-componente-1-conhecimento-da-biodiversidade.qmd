@@ -1,0 +1,92 @@
+# Do Componente 1 - Conhecimento da Biodiversidade
+
+::: {.callout-note icon=false appearance="simple"}
+
+**Objetivos Gerais: gerar, sistematizar e disponibilizar informações para a gestão da biodiversidade nos biomas e seu papel no funcionamento e na manutenção dos ecossistemas terrestres e aquáticos, incluindo as águas jurisdicionais. Promover o conhecimento da biodiversidade brasileira, sua distribuição, seus determinantes, seus valores, suas funções ecológicas e seu potencial de uso econômico.**
+
+:::
+
+## 10.1 Primeira diretriz: Inventário e caracterização da biodiversidade. Levantamento, identificação, catalogação e caracterização dos componentes da biodiversidade (ecossistemas, espécies e diversidade genética intra-específica), para gerar informações que possibilitem a proposição de medidas para a gestão desta.
+
+10.1.1 Instituir e implementar programa nacional de inventários biológicos integrados a estudos do meio físico, com ênfase em grupos taxonômicos megadiversos abrangendo os diferentes habitats e regiões geográficas do país, preferencialmente realizados em áreas prioritárias para conservação, estabelecendo-se protocolos mínimos padronizados para coleta, com obrigatoriedade do uso de coordenadas geográficas (georreferenciamento).
+
+10.1.2 Promover e apoiar pesquisas voltadas a estudos taxonômicos de todas as espécies que ocorrem no Brasil e para a caracterização e classificação da biodiversidade brasileira.
+
+10.1.3 Instituir um sistema nacional, coordenado e compartilhado, de registro de espécies descritas em território brasileiro e nas demais áreas sob jurisdição nacional, criando, apoiando, consolidando e integrando coleções científicas e centros de referência nacionais e regionais.
+
+10.1.4 Elaborar e manter atualizadas listas de espécies endêmicas e ameaçadas no país, de modo articulado com as listas estaduais e regionais.
+
+10.1.5 Promover pesquisas para identificar as características ecológicas, a diversidade genética e a viabilidade populacional das espécies de plantas, animais, fungos e microrganismos endêmicas e ameaçadas no Brasil, a fim de subsidiar ações de recuperação, regeneração, utilização sustentável e conservação destas.
+
+10.1.6 Promover pesquisas para determinar propriedades e características ecológicas, biológicas e genéticas das espécies de maior interesse para conservação e utilização socioeconômica sustentável, principalmente espécies nativas utilizadas para fins econômicos ou que possuam grande valor para povos indígenas, quilombolas e outras comunidades locais.
+
+10.1.7 Mapear a diversidade e a distribuição das variedades locais de espécies domesticadas e seus parentes silvestres.
+
+10.1.8 Inventariar e mapear as espécies exóticas invasoras e as espécies-problema, bem como os ecossistemas em que foram introduzidas para nortear estudos dos impactos gerados e ações de controle.
+
+10.1.9 Promover a avaliação sistemática das metodologias empregadas na realização de inventários.
+
+10.1.10 Estabelecer mecanismos para exigir, por parte do empreendedor, de realização de inventário da biodiversidade daqueles ambientes especiais (por exemplo canga ferrífera, platôs residuais) altamente ameaçados pela atividade de exploração econômica, inclusive a mineral.
+
+10.1.11 Apoiar a formação de recursos humanos nas áreas de taxonomia, incluindo taxônomos e auxiliares (parataxônomos).
+
+10.1.12 Promover a recuperação e a síntese das informações existentes no acervo científico brasileiro, principalmente teses e dissertações.
+
+10.1.13 Promover o mapeamento da biodiversidade em todo o território nacional, gerar e distribuir amplamente mapas da biodiversidade brasileira, resguardando-se o devido sigilo de informações de interesse nacional.
+
+10.1.14 Promover a repatriação das informações sobre a biodiversidade brasileira existentes no exterior.
+
+## 10.2 Segunda diretriz: Promoção de pesquisas ecológicas e estudos sobre o papel desempenhado pelos seres vivos na funcionalidade dos ecossistemas e sobre os impactos das mudanças globais na biodiversidade.
+
+10.2.1 Promover pesquisas para determinar as propriedades ecológicas das espécies e as formas de sinergia entre estas, visando a compreender sua importância nos ecossistemas.
+
+10.2.2 Promover estudos, preferencialmente nas áreas prioritárias para conservação da biodiversidade e nas unidades de conservação, sobre o funcionamento de comunidades e ecossistemas, sobre dinâmica e situação das populações e sobre avaliação de estoques e manejo dos componentes da biodiversidade.
+
+10.2.3 Fortalecer e expandir pesquisas ecológicas de longa duração, preferencialmente em unidades de conservação.
+
+10.2.4 Promover pesquisas para determinar o efeito da dinâmica das mudanças globais sobre a biodiversidade e a participação das espécies nos processos de fluxo de matéria e energia e de homeostase nos ecossistemas.
+
+10.2.5 Promover pesquisas sobre os efeitos das alterações ambientais causadas pela fragmentação de habitats na perda da biodiversidade, com ênfase nas áreas com maiores níveis de desconhecimento, de degradação e de perda de recursos genéticos.
+
+10.2.6 Promover o desenvolvimento e o aperfeiçoamento de ferramentas de modelagem de ecossistemas.
+
+10.2.7 Promover e apoiar a pesquisa sobre impacto das alterações ambientais na produção agropecuária e na saúde humana, com ênfase em dados para as análises de risco promovidas pelos órgãos competentes das áreas ambiental, sanitária e fitossanitária.
+
+## 10.3 Terceira diretriz: Promoção de pesquisas para a gestão da biodiversidade. Apoio à produção de informação e de conhecimento sobre os componentes da biodiversidade nos diferentes biomas para subsidiar a gestão da biodiversidade.
+
+10.3.1 Promover e apoiar pesquisa sobre biologia da conservação para os diferentes ecossistemas do país e particularmente para os componentes da biodiversidade ameaçados.
+
+10.3.2 Promover e apoiar desenvolvimento de pesquisa e tecnologia sobre conservação e utilização sustentável da biodiversidade, especialmente sobre a propagação e o desenvolvimento de espécies nativas com potencial medicinal, agrícola e industrial.
+
+10.3.3 Desenvolver estudos para o manejo da conservação e utilização sustentável da biodiversidade nas reservas legais das propriedades rurais, conforme previsto no Código Florestal.
+
+10.3.4 Fomentar a pesquisa em técnicas de prevenção, recuperação e restauração de áreas em processo de desertificação, fragmentação ou degradação ambiental, que utilizem a biodiversidade.
+
+10.3.5 Promover e apoiar pesquisas sobre sanidade da vida silvestre e estabelecer mecanismos para que seus dados sejam incorporados na gestão da biodiversidade.
+
+10.3.6 Promover e apoiar pesquisas para subsidiar a prevenção, erradicação e controle de espécies exóticas invasoras e espécies-problema que ameacem a biodiversidade, atividades da agricultura, pecuária, silvicultura e aqüicultura e a saúde humana.
+
+10.3.7 Apoiar estudos sobre o valor dos componentes da biodiversidade e dos serviços ambientais associados.
+
+10.3.8 Apoiar estudos que promovam a utilização sustentável da biodiversidade em benefício de povos indígenas, quilombolas e outras comunidades locais, assegurando sua participação direta.
+
+10.3.9 Atualizar as avaliações de áreas e ações prioritárias para conservação, utilização sustentável e repartição dos benefícios da biodiversidade.
+
+10.3.10 Definir estratégias de pesquisa multidisciplinar em biodiversidade.
+
+## 10.4 Quarta diretriz: Promoção de pesquisas sobre o conhecimento tradicional de povos indígenas, quilombolas e outras comunidades locais. Apoio a estudos para organização e sistematização de informações e procedimentos relacionados ao conhecimento tradicional associado à biodiversidade, com consentimento prévio informado das populações envolvidas e em conformidade com a legislação vigente e com os objetivos específicos estabelecidos na segunda diretriz do Componente 5, prevista no item 14.2.
+
+10.4.1 Desenvolver estudos e metodologias para a elaboração e implementação de instrumentos econômicos e regime jurídico específico que possibilitem a repartição justa e eqüitativa de benefícios, compensação econômica e outros tipos de compensação para os detentores dos conhecimentos tradicionais associados, segundo as demandas por eles definidas.
+
+10.4.2 Desenvolver estudos acerca do conhecimento, inovações e práticas dos povos indígenas, quilombolas e outras comunidades locais, respeitando, resgatando, mantendo e preservando os valores culturais agregados a estes conhecimentos, inovações e práticas, e assegurando a confidencialidade das informações obtidas, sempre que solicitado pelas partes detentoras destes ou quando a sua divulgação possa ocasionar dano à integridade social, ambiental ou cultural destas comunidades ou povos detentores destes conhecimentos.
+
+10.4.3 Apoiar estudos e iniciativas de povos indígenas, quilombos e outras comunidades locais de sistematização de seus conhecimentos, inovações e práticas, com ênfase nos temas de valoração, valorização, conservação e utilização sustentável dos recursos da biodiversidade.
+
+10.4.4 Promover estudos e iniciativas de diferentes setores da sociedade voltados para a valoração, valorização, conhecimento, conservação e utilização sustentável dos saberes tradicionais de povos indígenas, quilombolas e outras comunidades locais, assegurando a participação direta dos detentores desse conhecimento tradicional.
+
+10.4.5 Promover iniciativas que agreguem povos indígenas, quilombolas, outras comunidades locais e comunidades científicas para informar e fazer intercâmbio dos aspectos legais e científicos sobre a pesquisa da biodiversidade e sobre as atividades de bioprospecção.
+
+10.4.6 Promover a divulgação junto a povos indígenas, quilombolas e outras comunidades locais dos resultados das pesquisas que envolvam seus conhecimentos e dos institutos jurídicos relativos aos seus direitos.
+
+10.4.7 Apoiar e estimular a pesquisa sobre o saber tradicional (conhecimentos, práticas e inovações) de povos indígenas, quilombolas e outras comunidades locais, assegurando a sua integridade sociocultural, a posse e o usufruto de suas terras.
+

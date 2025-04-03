@@ -1,0 +1,9 @@
+# Advertência
+
+::: {.callout-note}
+
+## Atenção
+
+Este conteúdo é uma reprodução do Decreto Federal nº 4.339/2002. Para garantir informações atualizadas e consultar a versão oficial, acesse a [fonte oficial](https://www.planalto.gov.br/ccivil_03/decreto/2002/D4339.htm).
+
+:::

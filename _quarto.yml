@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Política Nacional da Biodiversidade"
+  author: "Lucas SB Jordão"
+  date: "04/03/2025"
+  chapters:
+    - index.qmd
+    - do-componente-1-conhecimento-da-biodiversidade.qmd
+    - do-componente-2-conservacao-da-biodiversidade.qmd
+    - do-componente-3-utilizacao-sustentavel-dos-componentes-da-biodiversidade.qmd
+    - do-componente-4-monitoramento-avaliacao-prevencao-e-mitigacao-de-impactos-sobre-a-biodiversidade.qmd
+    - do-componente-5-acesso-aos-recursos-geneticos-e-aos-conhecimentos-tradicionais-associados-e-reparticao-de-beneficios.qmd
+    - do-componente-6-educacao-sensibilizacao-publica-informacao-e-divulgacao-sobre-biodiversidade.qmd
+    - do-componente-7-fortalecimento-juridico-e-institucional-para-a-gestao-da-biodiversidade.qmd
+
+
+format:
+  html:
+    theme:
+      light: Sandstone
+      dark: darkly
+    number-sections: false
+    number-depth: 4
+    css: "style.css"
+    include-in-header:
+      - text: |
+          <script src="nav-arrows.js"></script>
+
+
+
